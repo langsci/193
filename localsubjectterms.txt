@@ -1,0 +1,142 @@
+subclause
+QP
+degree
+ellipsis
+deletion
+contrast
+adjective
+DegP
+overtness
+DP
+clausal
+verb
+subcomparative
+NumP
+predication
+VP
+complementiser
+determiner
+gradability
+AP
+PredP
+FP
+adverb
+sluicing
+modifier
+modification
+gapping
+particle
+TP
+CP
+extraposition
+PF
+LF
+PP
+uninterpretability
+proform
+extraction
+TopP
+AgrSP
+spell-out
+predicate
+markedness
+copula
+operator
+movement
+quantifier
+pronoun
+recoverability
+topic
+topicalisation
+tense
+vP
+noun
+preposition
+equality
+inequality
+NP
+copy
+edge
+agreement
+feature
+degree expression
+nominal expression
+predicative adjective
+attributive adjective
+comparative clause
+Comparative Deletion
+matrix clause
+Overtness Requirement
+comparative operator
+clausal comparative
+phrasal comparative
+superlative degree
+periphrastic comparative
+morphological comparative
+gradable adjective
+non-gradable adjective
+interrogative clause
+interrogative operator
+uninterpretable feature
+extractable operator
+selectional restriction
+Intonational Phrase
+postnominal modifier
+functional head
+base position
+movement chain
+ellipsis domain
+Attributive Comparative Deletion
+comparative degree
+degree head
+finite verb
+main stress
+degree element
+overt operator
+degree morpheme
+relative operator
+multiple wh-fronting
+operator position
+rightward movement
+lexical material
+degree marker
+comparative complement
+left periphery
+operator movement
+subordinate clause
+dummy auxiliary
+adjectival expression
+attributive modification
+sentential stress
+functional projection
+word order
+attributive position
+contrast position
+nuclear stress
+information structure
+functional verb
+lexical verb
+covert operator
+predicative position
+linear deletion
+indefinite article
+accusative case
+verb movement
+zero operator
+topic position
+absolute degree
+definite article
+relative clause
+right edge
+syntax-prosody mapping
+feature percolation
+Comparative Subdeletion
+island violation
+attributive adjective
+comparative morpheme
+postverbal position
+gradable predicate
+preverbal position
+covert movement
+relative pronoun
+left edge
